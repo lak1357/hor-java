@@ -6,4 +6,4 @@ jdk:
 deploy:
   provider: heroku
   api_key:
-    secure: "YOUR ENCRYPTED API KEY"
+    secure: "af497a29-3ac3-4516-ae17-a8773ad95e1d"
